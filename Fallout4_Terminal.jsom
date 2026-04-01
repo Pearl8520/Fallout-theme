@@ -1,0 +1,189 @@
+{
+    "name": "Fallout 4 Terminal",
+    "description": "A theme inspired by Fallout 4's terminals! Ported from the original by Bates.",
+    "authors": [
+        {
+            "name": "Bates (original), Pearl8520 (Revenge port)",
+            "id": "137259132305539072"
+        }
+    ],
+    "semanticColors": {
+        "TEXT_STRONG": [
+            "#4AEF98"
+        ],
+        "TEXT_DEFAULT": [
+            "#4AEF98"
+        ],
+        "TEXT_SUBTLE": [
+            "#4AEF98"
+        ],
+        "TEXT_MUTED": [
+            "#38b872"
+        ],
+        "TEXT_FEEDBACK_CRITICAL": [
+            "#D41227"
+        ],
+        "BORDER_STRONG": [
+            "#4AEF98"
+        ],
+        "BORDER_MUTED": [
+            "#38b872"
+        ],
+        "BORDER_SUBTLE": [
+            "#38b872"
+        ],
+        "INTERACTIVE_ICON_DEFAULT": [
+            "#4AEF98"
+        ],
+        "INTERACTIVE_TEXT_DEFAULT": [
+            "#4AEF98"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#38b872"
+        ],
+        "INTERACTIVE_ICON_ACTIVE": [
+            "#4AEF98"
+        ],
+        "INTERACTIVE_TEXT_ACTIVE": [
+            "#4AEF98"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#256644"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000900"
+        ],
+        "BACKGROUND_BASE_LOW": [
+            "#000900"
+        ],
+        "BACKGROUND_BASE_LOWER": [
+            "#000900"
+        ],
+        "BACKGROUND_BASE_LOWEST": [
+            "#000900"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000900"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#000900"
+        ],
+        "BG_BASE_SECONDARY_ALT": [
+            "#000900"
+        ],
+        "PANEL_BG": [
+            "#000900"
+        ],
+        "CARD_BACKGROUND_DEFAULT": [
+            "#000900"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000900"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#000900"
+        ],
+        "BG_BASE_ACCENT": [
+            "#001a00"
+        ],
+        "BG_BASE_FLOATING": [
+            "#000900"
+        ],
+        "BG_BASE_MOBILE_PRIMARY": [
+            "#000900"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#000900"
+        ],
+        "BG_BASE_MENTIONED": [
+            "#001a00"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000900"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000900"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#000900"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "transparent"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "transparent"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#001a00"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#4AEF98"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#000900"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#4AEF98"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#000900"
+        ],
+        "KEYBOARD": [
+            "#000900"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#38b872"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#000900"
+        ],
+        "CHANNEL_ICON": [
+            "#4AEF98"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#4AEF98"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BORDER": [
+            "#001a00"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#000900"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000900"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#001a00"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#4AEF98",
+        "PRIMARY_100": "#4AEF98",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#4AEF98",
+        "PRIMARY_360": "#4AEF98",
+        "PRIMARY_400": "#4AEF98",
+        "PRIMARY_500": "#000900",
+        "PRIMARY_600": "#000900",
+        "PRIMARY_630": "#000900",
+        "PRIMARY_660": "#000900",
+        "PRIMARY_700": "#000900",
+        "PRIMARY_800": "#000900",
+        "PRIMARY_900": "#38b872",
+        "BRAND_360": "#4AEF98",
+        "BRAND_260": "#4AEF98",
+        "BRAND_500": "#4AEF98",
+        "BRAND_560": "#4AEF98",
+        "YELLOW_300": "#FFFF33",
+        "GREEN_360": "#39FF14",
+        "GREEN_345": "#39FF14",
+        "RED_400": "#D41227",
+        "RED_560": "#FF0000",
+        "ORANGE_345": "#FFFF33",
+        "BLUE_345": "#4AEF98"
+    },
+    "spec": 2
+              }
